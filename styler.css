@@ -1,0 +1,6 @@
+.feature-section:hover{ padding: 20px; border: 1px solid #ccc; margin-top: 20px; }
+/* FIX PARA EL BUG #2 */
+#btn-estado:hover {
+    background-color: #0056b3; 
+    cursor: pointer;
+}
